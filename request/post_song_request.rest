@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/songs
+Content-Type: application/json
+
+{
+  "name": "name of the song",
+  "cover": "this is the cover image",
+  "artist": "this is the artist",
+  "audio": "this is the music",
+  "color": "color1, color2",
+  "active": true
+}
