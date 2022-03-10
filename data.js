@@ -69,6 +69,16 @@ let songs = [
     id: 7,
     active: false,
   },
+  {
+    name: 'Tropical Midnight',
+    cover:
+      'https://chillhop.com/wp-content/uploads/2022/02/7c943e75ba2e1017052e03444366c79445b43195-1024x1024.jpg',
+    artist: 'C Y G N',
+    audio: 'https://mp3.chillhop.com/serve.php/?mp3=31516',
+    color: ['#4C6677', '#8185DC'],
+    id: 8,
+    active: false,
+  },
   //ADD MORE HERE
 ];
 
